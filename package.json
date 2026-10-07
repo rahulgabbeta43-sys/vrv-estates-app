@@ -1,0 +1,7 @@
+{
+  "name": "vrv-estates-app-deployment",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix vrv-estates-app"
+  }
+}
