@@ -1,0 +1,1 @@
+{"expo":{"name":"VRV Estates","slug":"vrv-estates","version":"1.0.0","orientation":"portrait","icon":"./assets/icon.png","scheme":"vrvestates","userInterfaceStyle":"dark","splash":{"resizeMode":"contain","backgroundColor":"#0b0b0b"},"android":{"package":"com.vrvestates.app","adaptiveIcon":{"backgroundColor":"#0b0b0b"}},"ios":{"bundleIdentifier":"com.vrvestates.app"}}}
