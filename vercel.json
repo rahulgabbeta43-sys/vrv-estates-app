@@ -1,0 +1,6 @@
+{
+  "framework": "other",
+  "installCommand": "npm install --prefix vrv-estates-app",
+  "buildCommand": "npm run build --prefix vrv-estates-app",
+  "outputDirectory": "vrv-estates-app/dist"
+}
